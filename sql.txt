@@ -1,1 +1,1 @@
-select * from table limit 2000;
+select * from table where a> 100 limit 2000;
