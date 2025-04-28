@@ -2,7 +2,7 @@ class hghg {
 
 main {
 
-system.out.println("HI HOW are YOU good " );
+system.out.println("HI HOW are YOU good dytfh" );
 
 }
 
